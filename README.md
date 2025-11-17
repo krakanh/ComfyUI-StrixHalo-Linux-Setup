@@ -8,7 +8,7 @@ Step 1: Create the Conda Environment
 
 # Create a new Conda environment named "comfyui" with Python 3.12
 
-       conda create -n comfyui python=3.12
+       conda create -n comfy python=3.12
 
 # Activate the environment
 
