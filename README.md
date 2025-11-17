@@ -12,7 +12,7 @@ Step 1: Create the Conda Environment
 
 # Activate the environment
 
-       conda activate comfyui
+       conda activate comfy
 
 Step 2: Upgrade pip and Download ROCm Wheel Files
 
